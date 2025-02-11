@@ -1,6 +1,6 @@
 # 🌱 IoT Plant Monitoring System
 
-Welcome to our IoT Plant Monitoring System project, developed as part of the 2024 summer training at the Faculty of Computers and Data Science, Alexandria University.
+### Welcome to our IoT Plant Monitoring System project, developed as part of the 2024 summer training at the Faculty of Computers and Data Science, Alexandria University.
 ---
 
 ## Table of Contents
